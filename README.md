@@ -7,66 +7,349 @@ Begin at STEP 1.
 STEP 1:
 -------
 Display the following menu and wait for a response:  
-&nbsp;&nbsp;&nbsp;&nbsp;Welcome to Freebie Service.  
-&nbsp;&nbsp;&nbsp;&nbsp;1. Free Food  
-&nbsp;&nbsp;&nbsp;&nbsp;2. Free Drink  
-&nbsp;&nbsp;&nbsp;&nbsp;3. Free Airtime  
+&nbsp;&nbsp;&nbsp;&nbsp;Welcome to Afrinet Services.  
+&nbsp;&nbsp;&nbsp;&nbsp;1. Vote 
+&nbsp;&nbsp;&nbsp;&nbsp;2. Music  
+&nbsp;&nbsp;&nbsp;&nbsp;3. Ticket pass 
+&nbsp;&nbsp;&nbsp;&nbsp;4. Project 
 If the user selects option 1, goto [STEP 2](#step-2)  
 If the user selects option 2, goto [STEP 4](#step-4)  
-If the user selects option 3, goto [STEP 6](#step-6)  
+If the user selects option 3, goto [STEP 6](#step-6)
+If the user selects option 4, goto [STEP 8](#step-8) 
 If the selection is none of the above, goto [STEP 9](#step-9)  
 
 STEP 2:
 -------
 Display the following menu and wait for a response:  
-&nbsp;&nbsp;&nbsp;&nbsp;Are you sure you want free food?  
-&nbsp;&nbsp;&nbsp;&nbsp;1. Yes  
-&nbsp;&nbsp;&nbsp;&nbsp;2. No  
+&nbsp;&nbsp;&nbsp;&nbsp;Select to Vote a Player at NGN 100
+&nbsp;&nbsp;&nbsp;&nbsp;1. Player1
+&nbsp;&nbsp;&nbsp;&nbsp;2. Player2
+&nbsp;&nbsp;&nbsp;&nbsp;3. Player3
+&nbsp;&nbsp;&nbsp;&nbsp;4. Player4 
+&nbsp;&nbsp;&nbsp;&nbsp;5. Player5
+&nbsp;&nbsp;&nbsp;&nbsp;6. Player6
 If the user selects option 1, goto [STEP 3](#step-3)  
-If the user selects option 2, goto [STEP 8](#step-8)  
-If the selection is none of the above, goto [STEP 9](#step-9)
+If the user selects option 2, goto [STEP 4](#step-5)  
+If the user selects option 3, goto [STEP 5](#step-5)
+If the user selects option 4, goto [STEP 6](#step-6)
+If the user selects option 5, goto [STEP 7](#step-7)
+If the user selects option 6, goto [STEP 8](#step-8)
+If the selection is none of the above, goto [STEP 11](#step-11)
 
 STEP 3:
 -------
-Display the following message and release the session:  
-&nbsp;&nbsp;&nbsp;&nbsp;Thank you. You will receive your free food shortly.
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select player 1 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
 
 STEP 4:
 -------
 Display the following menu and wait for a response:  
-&nbsp;&nbsp;&nbsp;&nbsp;Are you sure you want free drink?  
-&nbsp;&nbsp;&nbsp;&nbsp;1. Yes  
-&nbsp;&nbsp;&nbsp;&nbsp;2. No  
-If the user selects option 1, goto [STEP 5](#step-5)  
-If the user selects option 2, goto [STEP 8](#step-8)  
-If the selection is none of the above, goto [STEP 9](#step-9)  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select player2 for NGN100 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
 
 STEP 5:
 -------
-Display the following message and release the session:  
-&nbsp;&nbsp;&nbsp;&nbsp;Thank you. You will receive your free drink shortly.
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select player3 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
 
 STEP 6:
 -------
 Display the following menu and wait for a response:  
-&nbsp;&nbsp;&nbsp;&nbsp;Are you sure you want free airtime?  
-&nbsp;&nbsp;&nbsp;&nbsp;1. Yes  
-&nbsp;&nbsp;&nbsp;&nbsp;2. No  
-If the user selects option 1, goto [STEP 7](#step-7)  
-If the user selects option 2, goto [STEP 8](#step-8)  
-If the selection is none of the above, goto [STEP 9](#step-9)
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select player4 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
 
 STEP 7:
 -------
-Display the following message and release the session:  
-&nbsp;&nbsp;&nbsp;&nbsp;Thank you. You will receive your free airtime shortly.
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select player5 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)
+
 
 STEP 8:
 -------
-Display the following message and release the session:  
-&nbsp;&nbsp;&nbsp;&nbsp;Order cancelled.
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select player6 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
 
 STEP 9:
 -------
 Display the following message and release the session:  
+&nbsp;&nbsp;&nbsp;&nbsp;Thank you. Selection successful
+
+
+STEP 10:
+-------
+Display the following message and release the session:  
+&nbsp;&nbsp;&nbsp;&nbsp;Order cancelled.
+
+
+STEP 11:
+-------
+Display the following message and release the session:  
 &nbsp;&nbsp;&nbsp;&nbsp;Invalid selection.
+
+
+STEP 12:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Select an Artist download at NGN100
+&nbsp;&nbsp;&nbsp;&nbsp;1. Artist1
+&nbsp;&nbsp;&nbsp;&nbsp;2. Artist2
+&nbsp;&nbsp;&nbsp;&nbsp;3. Artist3
+&nbsp;&nbsp;&nbsp;&nbsp;4. Artist4 
+&nbsp;&nbsp;&nbsp;&nbsp;5. Artist5
+&nbsp;&nbsp;&nbsp;&nbsp;6. Artist6
+If the user selects option 1, goto [STEP 3](#step-3)  
+If the user selects option 2, goto [STEP 4](#step-4)  
+If the user selects option 3, goto [STEP 5](#step-5)
+If the user selects option 4, goto [STEP 6](#step-6)
+If the user selects option 5, goto [STEP 7](#step-7)
+If the user selects option 6, goto [STEP 8](#step-8)
+If the selection is none of the above, goto [STEP 11](#step-11)
+
+
+STEP 12:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Artist 1 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 13:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Artist2 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 14:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Artist3?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 16:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Artist4 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 17:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Artist5 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)
+
+
+STEP 18:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Artist6 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 19:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Select an Event Ticket for NGN500
+&nbsp;&nbsp;&nbsp;&nbsp;1. Event1
+&nbsp;&nbsp;&nbsp;&nbsp;2. Event2
+&nbsp;&nbsp;&nbsp;&nbsp;3. Event3
+&nbsp;&nbsp;&nbsp;&nbsp;4. Event4 
+&nbsp;&nbsp;&nbsp;&nbsp;5. Event5
+&nbsp;&nbsp;&nbsp;&nbsp;6. Event6
+If the user selects option 1, goto [STEP 3](#step-3)  
+If the user selects option 2, goto [STEP 4](#step-4)  
+If the user selects option 3, goto [STEP 5](#step-5)
+If the user selects option 4, goto [STEP 6](#step-6)
+If the user selects option 5, goto [STEP 7](#step-7)
+If the user selects option 6, goto [STEP 8](#step-8)
+If the selection is none of the above, goto [STEP 11](#step-11)
+
+
+STEP 20:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Event1 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 21:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Event2 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 22:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Event3 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 23:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Event4 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 24:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Event5 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)
+
+
+STEP 25:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Event6 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 26:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Select a Project Contribution at NGN100
+&nbsp;&nbsp;&nbsp;&nbsp;1. Project1
+&nbsp;&nbsp;&nbsp;&nbsp;2. Project2
+&nbsp;&nbsp;&nbsp;&nbsp;3. Project3
+&nbsp;&nbsp;&nbsp;&nbsp;4. Project4 
+&nbsp;&nbsp;&nbsp;&nbsp;5. Project5
+&nbsp;&nbsp;&nbsp;&nbsp;6. Project6
+If the user selects option 1, goto [STEP 3](#step-3)  
+If the user selects option 2, goto [STEP 4](#step-4)  
+If the user selects option 3, goto [STEP 5](#step-5)
+If the user selects option 4, goto [STEP 6](#step-6)
+If the user selects option 5, goto [STEP 7](#step-7)
+If the user selects option 6, goto [STEP 8](#step-8)
+If the selection is none of the above, goto [STEP 11](#step-11)
+
+
+STEP 27:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to support Project1 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 28:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to Support Project2 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 29:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to Support Poject3 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 30:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to Support Project4 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
+
+STEP 31:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to Support Project5 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)
+
+
+STEP 32:
+-------
+Display the following menu and wait for a response:  
+&nbsp;&nbsp;&nbsp;&nbsp;Are you sure to Support Project6 ?
+&nbsp;&nbsp;&nbsp;&nbsp;1. Yes
+&nbsp;&nbsp;&nbsp;&nbsp;2. No
+
+If the user selects option 1, goto [STEP 10](#step-10)  
+If the user selects option 2, goto [STEP 13](#step-13)  
+
