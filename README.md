@@ -13,10 +13,10 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;3. Ticket pass 
 &nbsp;&nbsp;&nbsp;&nbsp;4. Project 
 If the user selects option 1, goto [STEP 2](#step-2)  
-If the user selects option 2, goto [STEP 4](#step-4)  
-If the user selects option 3, goto [STEP 6](#step-6)
-If the user selects option 4, goto [STEP 8](#step-8) 
-If the selection is none of the above, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 12](#step-12)  
+If the user selects option 3, goto [STEP 19](#step-19)
+If the user selects option 4, goto [STEP 26](#step-26) 
+If the selection is none of the above, goto [STEP 11](#step-11)  
 
 STEP 2:
 -------
