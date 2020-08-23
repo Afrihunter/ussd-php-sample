@@ -44,8 +44,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Player 1 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 4:
@@ -54,8 +54,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select player2  ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 5:
@@ -64,8 +64,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select player3 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 6:
@@ -74,8 +74,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select player4 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 7:
@@ -84,8 +84,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select player5 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)
 
 
 STEP 8:
@@ -94,8 +94,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select player6 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 9:
@@ -141,8 +141,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Artist1 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 14:
@@ -151,8 +151,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Artist2 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 15:
@@ -161,8 +161,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Artist3?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 16:
@@ -171,8 +171,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Artist4?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 17:
@@ -181,8 +181,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Artist5 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)
 
 
 STEP 18:
@@ -192,8 +192,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
 
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 19:
@@ -221,8 +221,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Event1 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 21:
@@ -231,8 +231,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Event2 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 22:
@@ -241,8 +241,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Event3 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 23:
@@ -251,8 +251,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Event4 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 24:
@@ -261,8 +261,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to select Event5 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)
 
 
 STEP 25:
@@ -272,8 +272,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
 
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 26:
@@ -301,8 +301,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to support Project1 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 28:
@@ -311,8 +311,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to Support Project2 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 29:
@@ -321,8 +321,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to Support Poject3 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 30:
@@ -331,8 +331,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to Support Project4 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
 
 STEP 31:
@@ -341,8 +341,8 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;Are you sure to Support Project5 ?
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)
 
 
 STEP 32:
@@ -352,6 +352,6 @@ Display the following menu and wait for a response:
 &nbsp;&nbsp;&nbsp;&nbsp;1. Yes
 &nbsp;&nbsp;&nbsp;&nbsp;2. No
 
-If the user selects option 1, goto [STEP 10](#step-10)  
-If the user selects option 2, goto [STEP 13](#step-13)  
+If the user selects option 1, goto [STEP 9](#step-9)  
+If the user selects option 2, goto [STEP 10](#step-10)  
 
